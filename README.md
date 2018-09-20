@@ -1,2 +1,1 @@
 # Applets - Java
-s
